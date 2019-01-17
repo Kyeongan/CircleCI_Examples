@@ -1,0 +1,14 @@
+{
+  "name": "circleci_examples",
+  "version": "1.0.0",
+  "description": "Circle CI learning examples",
+  "main": "examples.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Karl Kwon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
