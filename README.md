@@ -1,1 +1,1 @@
-# CircleCI_Examples
+# This repository is for self-learning CircleCI (CI/CD)
