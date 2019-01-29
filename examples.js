@@ -7,7 +7,12 @@ function prod(a, b) {
     return a * b;
 }
 
+function pow(a, b) {
+    return a ** b;
+}
+
 module.exports = {
     sum: sum,
-    prod: prod
+    prod: prod,
+    pow: pow,
 };
